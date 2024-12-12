@@ -97,17 +97,17 @@ const info = {
 			title: "LandLink",
 			description: "Revolutionizing land transactions with an online marketplace for buying and selling land properties across all states seamlessly.",
 			technologies: "https://skillicons.dev/icons?i=react,firebase,0,0,0&perline=10&theme=",
-			// github: "https://github.com/dsbalico/chatroom",
+			github: "https://github.com/srinivaspavan73/Landlink",
             // link: "https://thechatroom.netlify.app/"
 		},
 
-		{
-			title: "Sudoku Solver",
-			description: "Sudoku Solver is a web application that can generate or solve sudoku problems using simulated annealing, an optimization algorithm.",
-			technologies: "https://skillicons.dev/icons?i=react,tailwindcss,ts,0,0&perline=5&theme=",
-			// github: "https://github.com/dsbalico/sudoku-solver-using-simulated-annealing",
-            // link: "https://sudoku-solver-sa.netlify.app/"
-		},
+		// {
+		// 	title: "Sudoku Solver",
+		// 	description: "Sudoku Solver is a web application that can generate or solve sudoku problems using simulated annealing, an optimization algorithm.",
+		// 	technologies: "https://skillicons.dev/icons?i=react,tailwindcss,ts,0,0&perline=5&theme=",
+		// 	// github: "https://github.com/dsbalico/sudoku-solver-using-simulated-annealing",
+        //     // link: "https://sudoku-solver-sa.netlify.app/"
+		// },
 
 		{
 			title: "WeaveQuest",

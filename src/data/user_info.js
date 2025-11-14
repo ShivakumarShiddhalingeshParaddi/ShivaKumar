@@ -81,12 +81,12 @@ const info = {
         "A mental wellness platform offering personalized courses across Technology, Spirituality, Health and Fitness, and Juniors. Users can access guided learning from mentors and make payments through a unified web platform.",
       technologies:
         "https://skillicons.dev/icons?i=react,firebase,nodejs&perline=6&theme=",
-      github: "",
+      github: "https://github.com/ShivakumarShiddhalingeshParaddi/Vital_Mind",
     },
     {
   title: "MockMate: AI-Powered Mock Interview Platform",
   description:
-    "Developed an intelligent mock interview platform using Next.js and AI-based evaluation models. The system simulates real interview scenarios, analyzes user responses through NLP, and provides instant feedback on communication skills, confidence, and technical accuracy. Integrated dashboards help users track performance and improvement areas over time.",
+    "Developed an intelligent mock interview platform using Next.js and AI-based evaluation models. The system simulates real interview scenarios, analyzes user responses through NLP, and provides instant feedback on communication skills, confidence, and technical accuracy.",
   technologies:
     "https://skillicons.dev/icons?i=nextjs,python,nodejs,openai,tailwind&perline=6&theme=",
   github: "",
@@ -98,6 +98,16 @@ const info = {
       school: "KALPATARU INSTITUTE OF TECHNOLOGY, TIPTUR",
       degree: "B.E. in Computer Science and Engineering",
       image: "kitslogo.jpg",
+    },
+    {
+      school: "Shree Anandaneshvara Pre University Naregal,Gadag",
+      degree: "Science-PCMB",
+      image: "SAPU.jpg",
+    },
+    {
+      school: "Shree Sangameshwara High School Savadi,Gadag",
+      degree: "State Board",
+      image: "SAPU.jpg",
     },
   ],
 
